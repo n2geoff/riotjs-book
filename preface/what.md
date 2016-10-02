@@ -1,6 +1,6 @@
-## What this book covers
+# What this book covers
 
-- Part One: covers the everything you need to know to get RiotJS up and running for multiple scenerios, such as rapid prototyping, server-side rendering, and automated builds.
+- Part One: introduces riot and everything you need to know to get RiotJS setup for multiple scenerios, such as rapid prototyping, server-side rendering, and automated builds.
 
 - Part Two: dives into core functionality RiotJS library offers including building custom standards-based web-components, application routing for single page apps, and event deligation to tie everything together.
 
