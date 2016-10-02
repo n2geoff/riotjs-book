@@ -2,49 +2,44 @@
 
 ### Preface
 
-- [Why RiotJS](preface/why.md)
+- [Why Riot](preface/why.md)
 - [What this book covers](preface/what.md)
 - [What you need](preface/need.md)
 - [Who this book is for](preface/who.md)
 - [Conventions](preface/conventions.md)
 - [Feedback](preface/feedback.md)
 
-### RiotJS Setup
+## How to Riot
 
-- [Client-Side Compiling]()
-- [Server-Side with NodeJS]()
-- [Webpack Builds]()
+- [What is Riot](chapter-1/intro.md)
+- [Client-Side Compiling](chapter-1/client.md)
+- [Server-Side with NodeJS](chapter-1/server.md)
+- [Webpack Builds](chapter-1/webpack.md)
 
-## Part One: Library Features
+## Library Features
 
-- [Login System]()
+- [Custom Tags]()
+- [Routing]()
+- [Events]()
+- [Mixins]()
+- [The yield]()
 
-### Web Components  
+## Solutions
 
-- [attribute functions]()
-- [mixins]()
-- [yield]()
+- [Testing Strategies]()
 
-### Events
-
-### Routing
-
-## Part Two: Solutions
-
-- [Testing Components]()
-
-## Part Three: Projects
+## Projects
 
 - [Login System]()
 
-## Part Four: Beyond RiotJS
+## Beyond RiotJS
 
-- [Flux Architecture]()
-- [Community]()
-    - [Riot Gear]()
+- [Riotux State Management]()
+- [RiotControl Dispatcher]()
+- [Riot Gear UI Components]()
 
 ## Appendices
 
-- [Supported Events]()
+- [Supported Events](appendix/domevents.md)
 - [Style Guild]()
-- [References]()
+- [References](appendix/references.md)
