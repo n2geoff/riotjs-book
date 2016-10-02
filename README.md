@@ -1,7 +1,6 @@
-# Why RiotJS
+# RiotJS
 
-In a JavaScript UI landscape as rich as it is today, why would you choose RiotJS?
+**slogan here**
 
-For me...
+By: [@n2geoff](https://github.com/n2geoff)
 
-After reading the through Part One, I think you will find your own reason. 
